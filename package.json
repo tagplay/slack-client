@@ -1,0 +1,22 @@
+{
+  "name": "@tagplay/slack-client",
+  "version": "1.0.0",
+  "description": "A small API client for Slack (subset).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tagplay/slack-client.git"
+  },
+  "author": "Hlín Önnudóttir <hlin@tagplay.co>",
+  "bugs": {
+    "url": "https://github.com/tagplay/slack-client/issues"
+  },
+  "homepage": "https://github.com/tagplay/slack-client#readme",
+  "dependencies": {
+    "got": "^9.3.2",
+    "prefect-worker-config": "*"
+  }
+}
